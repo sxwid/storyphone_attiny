@@ -11,7 +11,7 @@
  *  PB2: detects Fork States and Inputs of Dial Wheel
  *  PB3 / PB4: Serial Communication with DFPlayer
  *  
- *  (c) 2022 simon.widmer@mailbox.org
+ *  (c) 2023 simon.widmer@mailbox.org
  *  Schematics: https://github.com/sxwid/storyphone
  *  
  *  Issues: Slight Distortions on audio signal... Better shielding needed?
