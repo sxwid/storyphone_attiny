@@ -6,6 +6,7 @@ Code und Hardware für einen Standalone Player. Funktionen und Details:
 - 2x Schaltregler um 5V für das MP3 Modul und den Attiny zu generieren (getrennt wegen Störungen des MP3 Moduls)
 - Ausgabe Leitungston 
 - Detektion der Gabelzustände und Wählimpulse über Optokoppler
+- FSM mit Statusindikation über LED
 - USB Stick (FAT32) mit Dateien im Rootfolder:
   - 0001.mp3 für Zahl 1
   - 0002.mp3 für Zahl 2 
@@ -13,7 +14,9 @@ Code und Hardware für einen Standalone Player. Funktionen und Details:
   - 0009.mp3 für Zahl 9
   - 0010.mp3 für Zahl 0
 
-Hier noch das Schema für die Autophon Geräte
+Signalverlauf und FSM Aufbau
+
+Hier das Schema für die Autophon Geräte
 
 ![](https://raw.githubusercontent.com/sxwid/storyphone/master/autophon.png)
 
