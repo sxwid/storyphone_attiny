@@ -16,6 +16,8 @@ Code und Hardware für einen Standalone Player. Funktionen und Details:
 
 Signalverlauf und FSM Aufbau
 
+![](https://github.com/sxwid/storyphone_attiny/blob/b8405406c7edf630e6ffa7b5f0768eefb24f5b94/impulse.png)
+
 Hier das Schema für die Autophon Geräte
 
 ![](https://raw.githubusercontent.com/sxwid/storyphone/master/autophon.png)
